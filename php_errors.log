@@ -1,0 +1,108 @@
+[21-Jan-2017 13:03:26 UTC] PHP Warning:  sprintf(): Too few arguments in /home/ubuntu/workspace/wp-content/plugins/bbpress/includes/admin/topics.php on line 943
+[21-Jan-2017 13:03:26 UTC] PHP Stack trace:
+[21-Jan-2017 13:03:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/post-new.php:0
+[21-Jan-2017 13:03:26 UTC] PHP   2. include() /home/ubuntu/workspace/wp-admin/post-new.php:85
+[21-Jan-2017 13:03:26 UTC] PHP   3. apply_filters() /home/ubuntu/workspace/wp-admin/edit-form-advanced.php:172
+[21-Jan-2017 13:03:26 UTC] PHP   4. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:235}() /home/ubuntu/workspace/wp-includes/plugin.php:235
+[21-Jan-2017 13:03:26 UTC] PHP   5. BBP_Topics_Admin->updated_messages() /home/ubuntu/workspace/wp-includes/plugin.php:235
+[21-Jan-2017 13:03:26 UTC] PHP   6. sprintf() /home/ubuntu/workspace/wp-content/plugins/bbpress/includes/admin/topics.php:943
+[21-Jan-2017 13:03:44 UTC] PHP Warning:  sprintf(): Too few arguments in /home/ubuntu/workspace/wp-content/plugins/bbpress/includes/admin/topics.php on line 943
+[21-Jan-2017 13:03:44 UTC] PHP Stack trace:
+[21-Jan-2017 13:03:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/post-new.php:0
+[21-Jan-2017 13:03:44 UTC] PHP   2. include() /home/ubuntu/workspace/wp-admin/post-new.php:85
+[21-Jan-2017 13:03:44 UTC] PHP   3. apply_filters() /home/ubuntu/workspace/wp-admin/edit-form-advanced.php:172
+[21-Jan-2017 13:03:44 UTC] PHP   4. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:235}() /home/ubuntu/workspace/wp-includes/plugin.php:235
+[21-Jan-2017 13:03:44 UTC] PHP   5. BBP_Topics_Admin->updated_messages() /home/ubuntu/workspace/wp-includes/plugin.php:235
+[21-Jan-2017 13:03:44 UTC] PHP   6. sprintf() /home/ubuntu/workspace/wp-content/plugins/bbpress/includes/admin/topics.php:943
+[21-Jan-2017 13:04:36 UTC] PHP Warning:  sprintf(): Too few arguments in /home/ubuntu/workspace/wp-content/plugins/bbpress/includes/admin/topics.php on line 943
+[21-Jan-2017 13:04:36 UTC] PHP Stack trace:
+[21-Jan-2017 13:04:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/post.php:0
+[21-Jan-2017 13:04:36 UTC] PHP   2. include() /home/ubuntu/workspace/wp-admin/post.php:173
+[21-Jan-2017 13:04:36 UTC] PHP   3. apply_filters() /home/ubuntu/workspace/wp-admin/edit-form-advanced.php:172
+[21-Jan-2017 13:04:36 UTC] PHP   4. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:235}() /home/ubuntu/workspace/wp-includes/plugin.php:235
+[21-Jan-2017 13:04:36 UTC] PHP   5. BBP_Topics_Admin->updated_messages() /home/ubuntu/workspace/wp-includes/plugin.php:235
+[21-Jan-2017 13:04:36 UTC] PHP   6. sprintf() /home/ubuntu/workspace/wp-content/plugins/bbpress/includes/admin/topics.php:943
+[21-Jan-2017 13:04:59 UTC] PHP Warning:  sprintf(): Too few arguments in /home/ubuntu/workspace/wp-content/plugins/bbpress/includes/admin/topics.php on line 943
+[21-Jan-2017 13:04:59 UTC] PHP Stack trace:
+[21-Jan-2017 13:04:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/post.php:0
+[21-Jan-2017 13:04:59 UTC] PHP   2. include() /home/ubuntu/workspace/wp-admin/post.php:173
+[21-Jan-2017 13:04:59 UTC] PHP   3. apply_filters() /home/ubuntu/workspace/wp-admin/edit-form-advanced.php:172
+[21-Jan-2017 13:04:59 UTC] PHP   4. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:235}() /home/ubuntu/workspace/wp-includes/plugin.php:235
+[21-Jan-2017 13:04:59 UTC] PHP   5. BBP_Topics_Admin->updated_messages() /home/ubuntu/workspace/wp-includes/plugin.php:235
+[21-Jan-2017 13:04:59 UTC] PHP   6. sprintf() /home/ubuntu/workspace/wp-content/plugins/bbpress/includes/admin/topics.php:943
+[21-Jan-2017 13:05:07 UTC] PHP Warning:  sprintf(): Too few arguments in /home/ubuntu/workspace/wp-content/plugins/bbpress/includes/admin/topics.php on line 943
+[21-Jan-2017 13:05:07 UTC] PHP Stack trace:
+[21-Jan-2017 13:05:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/post.php:0
+[21-Jan-2017 13:05:07 UTC] PHP   2. include() /home/ubuntu/workspace/wp-admin/post.php:173
+[21-Jan-2017 13:05:07 UTC] PHP   3. apply_filters() /home/ubuntu/workspace/wp-admin/edit-form-advanced.php:172
+[21-Jan-2017 13:05:07 UTC] PHP   4. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:235}() /home/ubuntu/workspace/wp-includes/plugin.php:235
+[21-Jan-2017 13:05:07 UTC] PHP   5. BBP_Topics_Admin->updated_messages() /home/ubuntu/workspace/wp-includes/plugin.php:235
+[21-Jan-2017 13:05:07 UTC] PHP   6. sprintf() /home/ubuntu/workspace/wp-content/plugins/bbpress/includes/admin/topics.php:943
+[22-Jan-2017 16:52:42 UTC] PHP Warning:  sprintf(): Too few arguments in /home/ubuntu/workspace/wp-content/plugins/bbpress/includes/admin/topics.php on line 943
+[22-Jan-2017 16:52:42 UTC] PHP Stack trace:
+[22-Jan-2017 16:52:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/post.php:0
+[22-Jan-2017 16:52:42 UTC] PHP   2. include() /home/ubuntu/workspace/wp-admin/post.php:173
+[22-Jan-2017 16:52:42 UTC] PHP   3. apply_filters() /home/ubuntu/workspace/wp-admin/edit-form-advanced.php:172
+[22-Jan-2017 16:52:42 UTC] PHP   4. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:235}() /home/ubuntu/workspace/wp-includes/plugin.php:235
+[22-Jan-2017 16:52:42 UTC] PHP   5. BBP_Topics_Admin->updated_messages() /home/ubuntu/workspace/wp-includes/plugin.php:235
+[22-Jan-2017 16:52:42 UTC] PHP   6. sprintf() /home/ubuntu/workspace/wp-content/plugins/bbpress/includes/admin/topics.php:943
+[22-Jan-2017 17:04:18 UTC] PHP Warning:  sprintf(): Too few arguments in /home/ubuntu/workspace/wp-content/plugins/bbpress/includes/admin/topics.php on line 943
+[22-Jan-2017 17:04:18 UTC] PHP Stack trace:
+[22-Jan-2017 17:04:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/post.php:0
+[22-Jan-2017 17:04:18 UTC] PHP   2. include() /home/ubuntu/workspace/wp-admin/post.php:173
+[22-Jan-2017 17:04:18 UTC] PHP   3. apply_filters() /home/ubuntu/workspace/wp-admin/edit-form-advanced.php:172
+[22-Jan-2017 17:04:18 UTC] PHP   4. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:235}() /home/ubuntu/workspace/wp-includes/plugin.php:235
+[22-Jan-2017 17:04:18 UTC] PHP   5. BBP_Topics_Admin->updated_messages() /home/ubuntu/workspace/wp-includes/plugin.php:235
+[22-Jan-2017 17:04:18 UTC] PHP   6. sprintf() /home/ubuntu/workspace/wp-content/plugins/bbpress/includes/admin/topics.php:943
+[23-Jan-2017 05:12:19 UTC] PHP Warning:  sprintf(): Too few arguments in /home/ubuntu/workspace/wp-content/plugins/bbpress/includes/admin/topics.php on line 943
+[23-Jan-2017 05:12:19 UTC] PHP Stack trace:
+[23-Jan-2017 05:12:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/post.php:0
+[23-Jan-2017 05:12:19 UTC] PHP   2. include() /home/ubuntu/workspace/wp-admin/post.php:173
+[23-Jan-2017 05:12:19 UTC] PHP   3. apply_filters() /home/ubuntu/workspace/wp-admin/edit-form-advanced.php:172
+[23-Jan-2017 05:12:19 UTC] PHP   4. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:235}() /home/ubuntu/workspace/wp-includes/plugin.php:235
+[23-Jan-2017 05:12:19 UTC] PHP   5. BBP_Topics_Admin->updated_messages() /home/ubuntu/workspace/wp-includes/plugin.php:235
+[23-Jan-2017 05:12:19 UTC] PHP   6. sprintf() /home/ubuntu/workspace/wp-content/plugins/bbpress/includes/admin/topics.php:943
+[23-Jan-2017 05:12:37 UTC] PHP Warning:  sprintf(): Too few arguments in /home/ubuntu/workspace/wp-content/plugins/bbpress/includes/admin/topics.php on line 943
+[23-Jan-2017 05:12:37 UTC] PHP Stack trace:
+[23-Jan-2017 05:12:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/post.php:0
+[23-Jan-2017 05:12:37 UTC] PHP   2. include() /home/ubuntu/workspace/wp-admin/post.php:173
+[23-Jan-2017 05:12:37 UTC] PHP   3. apply_filters() /home/ubuntu/workspace/wp-admin/edit-form-advanced.php:172
+[23-Jan-2017 05:12:37 UTC] PHP   4. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:235}() /home/ubuntu/workspace/wp-includes/plugin.php:235
+[23-Jan-2017 05:12:37 UTC] PHP   5. BBP_Topics_Admin->updated_messages() /home/ubuntu/workspace/wp-includes/plugin.php:235
+[23-Jan-2017 05:12:37 UTC] PHP   6. sprintf() /home/ubuntu/workspace/wp-content/plugins/bbpress/includes/admin/topics.php:943
+[23-Jan-2017 05:12:48 UTC] PHP Warning:  sprintf(): Too few arguments in /home/ubuntu/workspace/wp-content/plugins/bbpress/includes/admin/topics.php on line 943
+[23-Jan-2017 05:12:48 UTC] PHP Stack trace:
+[23-Jan-2017 05:12:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/post.php:0
+[23-Jan-2017 05:12:48 UTC] PHP   2. include() /home/ubuntu/workspace/wp-admin/post.php:173
+[23-Jan-2017 05:12:48 UTC] PHP   3. apply_filters() /home/ubuntu/workspace/wp-admin/edit-form-advanced.php:172
+[23-Jan-2017 05:12:48 UTC] PHP   4. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:235}() /home/ubuntu/workspace/wp-includes/plugin.php:235
+[23-Jan-2017 05:12:48 UTC] PHP   5. BBP_Topics_Admin->updated_messages() /home/ubuntu/workspace/wp-includes/plugin.php:235
+[23-Jan-2017 05:12:48 UTC] PHP   6. sprintf() /home/ubuntu/workspace/wp-content/plugins/bbpress/includes/admin/topics.php:943
+[23-Jan-2017 05:13:00 UTC] PHP Warning:  sprintf(): Too few arguments in /home/ubuntu/workspace/wp-content/plugins/bbpress/includes/admin/topics.php on line 943
+[23-Jan-2017 05:13:00 UTC] PHP Stack trace:
+[23-Jan-2017 05:13:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/post.php:0
+[23-Jan-2017 05:13:00 UTC] PHP   2. include() /home/ubuntu/workspace/wp-admin/post.php:173
+[23-Jan-2017 05:13:00 UTC] PHP   3. apply_filters() /home/ubuntu/workspace/wp-admin/edit-form-advanced.php:172
+[23-Jan-2017 05:13:00 UTC] PHP   4. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:235}() /home/ubuntu/workspace/wp-includes/plugin.php:235
+[23-Jan-2017 05:13:00 UTC] PHP   5. BBP_Topics_Admin->updated_messages() /home/ubuntu/workspace/wp-includes/plugin.php:235
+[23-Jan-2017 05:13:00 UTC] PHP   6. sprintf() /home/ubuntu/workspace/wp-content/plugins/bbpress/includes/admin/topics.php:943
+[23-Jan-2017 05:14:25 UTC] PHP Warning:  sprintf(): Too few arguments in /home/ubuntu/workspace/wp-content/plugins/bbpress/includes/admin/topics.php on line 943
+[23-Jan-2017 05:14:25 UTC] PHP Stack trace:
+[23-Jan-2017 05:14:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/post.php:0
+[23-Jan-2017 05:14:25 UTC] PHP   2. include() /home/ubuntu/workspace/wp-admin/post.php:173
+[23-Jan-2017 05:14:25 UTC] PHP   3. apply_filters() /home/ubuntu/workspace/wp-admin/edit-form-advanced.php:172
+[23-Jan-2017 05:14:25 UTC] PHP   4. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:235}() /home/ubuntu/workspace/wp-includes/plugin.php:235
+[23-Jan-2017 05:14:25 UTC] PHP   5. BBP_Topics_Admin->updated_messages() /home/ubuntu/workspace/wp-includes/plugin.php:235
+[23-Jan-2017 05:14:25 UTC] PHP   6. sprintf() /home/ubuntu/workspace/wp-content/plugins/bbpress/includes/admin/topics.php:943
+[23-Jan-2017 16:48:14 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'cptui_<div id="message" class="error notice is-dismissible"><p>このタクソノミーを利用する投稿タイプを指定してください。</p></div>_admin_notice' not found or invalid function name in /home/ubuntu/workspace/wp-includes/plugin.php on line 524
+[23-Jan-2017 16:48:14 UTC] PHP Stack trace:
+[23-Jan-2017 16:48:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin.php:0
+[23-Jan-2017 16:48:14 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin.php:214
+[23-Jan-2017 16:48:14 UTC] PHP   3. do_action() /home/ubuntu/workspace/wp-admin/admin-header.php:250
+[23-Jan-2017 16:48:14 UTC] PHP   4. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:524}() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[23-Jan-2017 16:53:03 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'cptui_<div id="message" class="error notice is-dismissible"><p>このタクソノミーを利用する投稿タイプを指定してください。</p></div>_admin_notice' not found or invalid function name in /home/ubuntu/workspace/wp-includes/plugin.php on line 524
+[23-Jan-2017 16:53:03 UTC] PHP Stack trace:
+[23-Jan-2017 16:53:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin.php:0
+[23-Jan-2017 16:53:03 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin.php:214
+[23-Jan-2017 16:53:03 UTC] PHP   3. do_action() /home/ubuntu/workspace/wp-admin/admin-header.php:250
+[23-Jan-2017 16:53:03 UTC] PHP   4. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:524}() /home/ubuntu/workspace/wp-includes/plugin.php:524
